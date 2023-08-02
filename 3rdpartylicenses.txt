@@ -45,6 +45,9 @@ ng6-toastr-notifications
 ngx-owl-carousel-o
 MIT
 
+ngx-uploader
+MIT
+
 rxjs
 Apache-2.0
                                Apache License
